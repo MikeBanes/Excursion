@@ -1,6 +1,8 @@
-/*Created by Mike Banes 2025*/
+﻿/*Created by Mike Banes*/
 
 ﻿html {
+    background-color: black;
+    text-align: center;
 }
 
 
@@ -60,7 +62,7 @@ p {
     font-size: 21px;
     color: gray;
 }
-
+/*
 
 .landscape_container {
     display: flex;
@@ -93,4 +95,5 @@ footer a {
 }
 
 body {
-}
+
+}*/
