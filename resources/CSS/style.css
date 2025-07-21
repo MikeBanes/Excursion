@@ -28,5 +28,27 @@ header h1 {
     color: aquamarine;
     text-decoration: none;
 }
+
+main .container {
+    border: 2px solid red;
+    margin: 0 auto;
+    margin-top: 10px;
+    display: flex;
+    
+}
+
+main .container .side_img {
+    flex: 2 0 30%;
+    color: white;
+    border: 3px solid blue;
+}
+
+#mp4 {
+    border: 2px solid orange;
+    align-content: center;
+    align-items: center;
+
+}
+
 body {
 }
