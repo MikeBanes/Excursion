@@ -1,2 +1,32 @@
-﻿body {
+﻿html {
+    background-color: black;
+    text-align: center;
+}
+
+
+header .container {
+
+    border: 2px solid red;
+}
+
+header h1 {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    align-content: center;
+}
+
+.link {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 16px;
+    text-align: center;
+}
+
+.link a {
+    color: aquamarine;
+    text-decoration: none;
+}
+body {
 }
